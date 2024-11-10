@@ -4,8 +4,11 @@
 
 
 <body>
-    <div>
-        AQUI VA INTERESES
+    <div class="cuerpo">
+        <div class="hero-unit">
+            <h1>Intereses Personales</h1>
+            <p>de Ivan Firestone</p>
+        </div>
 
     </div>
 </body>

@@ -4,8 +4,11 @@
 
 
 <body>
-    <div>
-        AQUI VA EL QUIEN SOY
+    <div class="cuerpo">
+        <div class="hero-unit">
+            <h1>Quien Soy</h1>
+            <p>Ivan Firestone</p>
+        </div>
 
     </div>
 </body>

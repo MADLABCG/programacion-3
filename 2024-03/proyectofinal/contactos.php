@@ -4,9 +4,11 @@
 
 
 <body>
-    <div>
-        AQUI VA EL CONTACTOS
-
+    <div class="cuerpo">
+        <div class="hero-unit">
+            <h1>Contacto</h1>
+            <p>de Ivan Firestone</p>
+        </div>
     </div>
 </body>
 
