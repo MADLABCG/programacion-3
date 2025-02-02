@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f1f1;
+  font-family: "Comic Sans MS", "Arial Narrow", Arial, sans-serif;
+}
+
+.cuerpo {
+  padding-bottom: 15%;
+}
+
+.info-personal {
+  background-color: #e3cbc6;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(1, 1, 1, 0.1);
+  margin: 10px;
+  font-family: "Comic Sans MS", "Arial Narrow", Arial, sans-serif;
+}
+
+.info-p-interno {
+  background-color: #363231;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(218, 10, 10, 0.1);
+  margin: 5px;
+}
+
+.info-academica {
+  background-color: #d1f7ea;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(1, 1, 1, 0.1);
+  margin: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.info-a-interno {
+  background-color: #363231;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(218, 10, 10, 0.1);
+  margin: 5px;
+}
+
+.imagen {
+  height: 50%;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagen-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  background-color: #171d16;
+  color: #fff;
+  padding: 10px;
+  border-radius: 0px;
+  box-shadow: 0 0 10px rgba(218, 10, 10, 0.1);
+  margin: 5px;
+}
+
+.columna-footer {
+  display: block;
+  justify-content: right;
+  align-items: right;
+  margin-left: 40%;
+}
+
+.link-footer {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 900;
+}

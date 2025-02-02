@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+
+    <link rel="stylesheet" href="bootstrap-5.3.2/css/bootstrap.css">
+</head>
+
+<body>
+    <div class="row g-4 p-4">
+        <div class="row">
+            <h1 class="text-center text-decoration-underline text-success">Formulario de Solicitud de Trabajo
+            </h1>
+        </div>
+        <form class="row g-3">
+
+            <!-- Cada Fila con 12 Columnas -->
+            <div class="row g-2">
+                <div class="col-md-6">
+                    <label for="nombres" class="form-label">Nombres</label>
+                    <input type="text" class="form-control" placeholder="Juan Ernesto" id="nombres" name="nombres">
+                </div>
+                <div class="col-md-6">
+                    <label for="apellidos" class="form-label">Apellidos</label>
+                    <input type="text" placeholder="Perez Garcia" class="form-control" id="apellidos" name="apellidos">
+                </div>
+            </div>
+            <!-- Cada Fila con 12 Columnas -->
+
+            <!-- Cada Fila con 12 Columnas -->
+            <div class="row g-2">
+                <div class="col-md-4">
+                    <label for="cedula" class="form-label">Numero Identificacion <em><b>sin guiones</b></em>
+                    </label>
+                    <input type="number" placeholder="00100000001" class="form-control" id="cedula" name="cedula">
+                </div>
+                <div class="col-md-4">
+                    <label for="fecha_nacimiento" class="form-label">Fecha Nacimiento</label>
+                    <input type="date" class="form-control" id="fecha_nacimiento" name="fecha_nacimiento">
+                </div>
+                <div class="col-md-4">
+                    <label for="genero" class="form-label">Genero</label>
+                    <select id="genero" class="form-select" name="genero">
+                        <option selected>Escoger...</option>
+                        <option value="Femenino">Femenino</option>
+                        <option value="Masculino">Masculino</option>
+                        <option value="Indeciso">Otros</option>
+                    </select>
+                </div>
+            </div>
+            <!-- Cada Fila con 12 Columnas -->
+
+            <!-- Cada Fila con 12 Columnas -->
+            <div class="row g-2">
+                <div class="col-md-4">
+                    <label for="telefono" class="form-label">Telefono <em><b>sin guiones</b></em></label>
+                    <input type="number" placeholder="1231231234" class="form-control" id="telefono" name="telefono">
+                </div>
+                <div class="col-md-4">
+                    <label for="movil" class="form-label">Celular <em><b>sin guiones</b></em></label>
+                    <input type="number" placeholder="1231231234" class="form-control" id="movil" name="movil">
+                </div>
+                <div class="col-md-4">
+                    <label for="email" class="form-label">Correo Electronico</label>
+                    <input type="email" placeholder="tucorreo@correo.com" class="form-control" id="email" name="email">
+                </div>
+            </div>
+            <!-- Cada Fila con 12 Columnas -->
+
+            <!-- Cada Fila con 12 Columnas -->
+            <div class="row g-2">
+                <label for="direccion" class="form-label">Direccion</label>
+                <div class="col-md-4">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="calle">Calle</span>
+                        <input type="text" id="calle" name="calle" class="form-control" placeholder="Calle Primera">
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="numero">Numero</span>
+                        <input type="text" id="numero" name="numero" class="form-control" placeholder="1B">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="edificio">Edificio</span>
+                        <input type="text" id="edificio" name="edificio" class="form-control"
+                            placeholder="Maria Josefina">
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="apartamento">Apartamento</span>
+                        <input type="text" id="apartamento" name="apartamento" class="form-control" placeholder="4to B">
+                    </div>
+                </div>
+
+            </div>
+            <!-- Cada Fila con 12 Columnas -->
+
+            <!-- Cada Fila con 12 Columnas -->
+            <div class="row g-2">
+                <div class="col-md-4">
+                    <label for="provincia" class="form-label">Provincia</label>
+                    <select id="provincia" class="form-select" name="provincia">
+                        <option selected>Escoger...</option>
+                        <option value="Santo Domingo">Santo Domingo</option>
+                        <option value="San Cristóbal">San Cristóbal</option>
+                        <option value="San Juan">San Juan</option>
+                        <option value="Azua">Azua</option>
+                        <option value="Santiago">Santiago</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="sector" class="form-label">Sector</label>
+                    <select id="sector" class="form-select" name="sector">
+                        <option selected>Escoger...</option>
+                        <option value="Centro de Ciudad">Centro de Ciudad</option>
+                        <option value="Municipio Cabecera">Municipio Cabecera</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <label for="barrio" class="form-label">Barrio</label>
+                    <input type="text" placeholder="La Esperilla" class="form-control" id="barrio" name="barrio">
+                </div>
+            </div>
+            <!-- Cada Fila con 12 Columnas -->
+
+            <button type="submit">Enviar</button>
+
+
+        </form>
+    </div>
+
+</body>
+
+<footer>
+    <script src="bootstrap-5.3.2/js/bootstrap.js"></script>
+</footer>
+
+</html>

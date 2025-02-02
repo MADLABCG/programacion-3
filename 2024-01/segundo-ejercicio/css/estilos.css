@@ -1,0 +1,45 @@
+.informacion_personal {
+  background-color: #d1f7ea;
+  padding: 20px;
+  border: 5px solid #7fa492;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.informativo {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.informacion_academica {
+  background-color: #f1c3ef;
+  padding: 20px;
+  border: 5px solid #9a589f;
+  margin-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.academico {
+  padding: 10px;
+  border: 1px solid #442048;
+  margin-bottom: 10px;
+}
+
+.perfil {
+  background-color: #f8eba1;
+  padding: 20px;
+  border: 3px solid #2b0145;
+  margin-bottom: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.perfil .info {
+  padding: 10px;
+  border: 1px solid #2b0145;
+  margin-bottom: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

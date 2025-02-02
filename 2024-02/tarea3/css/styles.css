@@ -1,0 +1,74 @@
+.info_personal {
+  background-color: #e3cbc6;
+  padding: 20px;
+  border: 5px solid #3f9c8e;
+  margin-bottom: 20px;
+  font-family: "Comic Sans MS", "Arial Narrow", Arial, sans-serif;
+}
+
+.info {
+  padding: 10px;
+  border: 1px solid #390909;
+  margin-bottom: 10px;
+}
+
+.info_academica {
+  background-color: #d1f7ea;
+  padding: 20px;
+  border: 5px solid #3f9c8e;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.academica {
+  padding: 10px;
+  border: 1px solid #390909;
+  margin-bottom: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+.navbar li:last-child {
+  border-right: none;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navbar li a:hover {
+  background-color: #111;
+}
+
+.navbar .active {
+  background-color: #04aa6d;
+}
+
+.navbar {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
