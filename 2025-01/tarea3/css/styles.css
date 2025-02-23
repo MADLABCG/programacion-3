@@ -1,0 +1,66 @@
+.espacio-navbar {
+  padding-bottom: 50px;
+}
+
+.presentacion {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(1, 1, 0.1);
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.imagen-perfil {
+  height: 20%;
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-estudiante {
+  padding: 20px;
+  margin: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+  font-size: xx-large;
+  font-weight: 900;
+  font-style: italic;
+  color: #164e01;
+}
+
+.info-personal {
+  background-color: #e3cbc6;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(1, 1, 0.1);
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.info-p-interno {
+  background-color: #f1e7e55b;
+  color: #490303;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.info-academica {
+  background-color: #c6e3d1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(1, 1, 0.1);
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.info-a-interno {
+  background-color: #e5f1e7;
+  color: #034a0b;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
