@@ -1,12 +1,20 @@
+<!-- Variable Nombre de Pagina     -->
+<?php $titulo = "Mi Biografia"; ?>
+<!-- Variable Nombre de Pagina     -->
+
+<!-- Variable Numero Menú    -->
+<?php $pagina = "3"; ?>
+<!-- Variable Numero Menú    -->
+
 <!-- Componente de Header     -->
 <?php include 'layout/header.php'; ?>
 <!-- Componente de Header     -->
 
-<body>
-    <!-- Componente de Navegación     -->
-    <?php include 'layout/navbar.php'; ?>
-    <!-- Componente de Navegación     -->
+<!-- Componente de Navegación     -->
+<?php include 'layout/navbar.php'; ?>
+<!-- Componente de Navegación     -->
 
+<body>
     <div class="container-fluid">
         <section>
 
@@ -52,9 +60,8 @@
             </div>
         </section>
     </div>
-
-
-
 </body>
 
-</html>
+<!-- Componente de Footer     -->
+<?php include 'layout/footer.php'; ?>
+<!-- Componente de Footer     -->

@@ -1,9 +1,9 @@
 <!-- Variable Nombre de Pagina     -->
-<?php $titulo = "Universidad"; ?>
+<?php $titulo = "Noticias"; ?>
 <!-- Variable Nombre de Pagina     -->
 
 <!-- Variable Numero Menú    -->
-<?php $pagina = "4"; ?>
+<?php $pagina = "5"; ?>
 <!-- Variable Numero Menú    -->
 
 <!-- Componente de Header     -->
@@ -17,7 +17,7 @@
 <body>
     <div class="container-fluid">
         <section class="container-fluid">
-            <h1>AQUI VA LA INFORMACIÓN DE LA UNIVERSIDAD</h1>
+            <h1>AQUI VA LA INFORMACIÓN DE LAS NOTICIAS</h1>
         </section>
     </div>
 </body>
