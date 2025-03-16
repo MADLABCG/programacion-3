@@ -5,6 +5,7 @@ $pagina2 = "";
 $pagina3 = "";
 $pagina4 = "";
 $pagina5 = "";
+$pagina6 = "";
 $pagina =  isset($pagina) ? $pagina : "";
 
 if ($pagina == "1") {
@@ -17,6 +18,8 @@ if ($pagina == "1") {
     $pagina4 = "active";
 } else if ($pagina == "5") {
     $pagina5 = "active";
+} else if ($pagina == "6") {
+    $pagina6 = "active";
 }
 
 ?>
@@ -47,6 +50,10 @@ if ($pagina == "1") {
                 <li class="divider-vertical"></li>
                 <li class="<?php echo $pagina5; ?>">
                     <a href="/noticias.php">Noticias</a>
+                </li>
+                <li class="divider-vertical"></li>
+                <li class="<?php echo $pagina6; ?>">
+                    <a href="/ventas.php">Ventas</a>
                 </li>
             </ul>
         </div>
