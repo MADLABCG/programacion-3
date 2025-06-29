@@ -12,93 +12,97 @@
 <!-- Componente Navegación -->
 
 <body>
-    <div class="hero-unit">
-        <h1>UNIREMHOS</h1>
-        <p>Universidad Eugenio Maria de Hostos</p>
-        <p>
-            <a href="https://uniremhos.edu.do" target="_blank" class="btn btn-primary btn-large">
-                Ver mas
-            </a>
-        </p>
+
+    <div class="container-fluid">
+        <div class="hero-unit">
+            <h1>UNIREMHOS</h1>
+            <p>Universidad Eugenio Maria de Hostos</p>
+            <p>
+                <a href="https://uniremhos.edu.do" target="_blank" class="btn btn-primary btn-large">
+                    Ver mas
+                </a>
+            </p>
+        </div>
+
+
+
+
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
+        <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
     </div>
 
-
-
-
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
-    <h1>HOLA YA ESTO ES PHP y HTML + CSS</h1>
 </body>
 
 

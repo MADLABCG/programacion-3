@@ -11,9 +11,8 @@
 <?php include 'layouts/navbar.php' ?>
 <!-- Componente Navegación -->
 
-<div class="container">
-
-    <body>
+<body>
+    <div class="container-fluid">
         <div class="author">
             <div class="persona">Ivan Firestone SC-00-00000</div>
             <img src="./images/profile.jpeg" alt="Foto de Perfil" class="imagen">
@@ -36,10 +35,12 @@
             <div class="ia-interno">Fecha de Inicio: 2020-01-01</div>
             <div class="ia-interno">Fecha de Finalizacion: 2024-04-01</div>
         </div>
-    </body>
+    </div>
 
-    </html>
+</body>
 
-    <!-- Componente Navegación -->
-    <?php include 'layouts/footer.php' ?>
-    <!-- Componente Navegación -->
+</html>
+
+<!-- Componente Navegación -->
+<?php include 'layouts/footer.php' ?>
+<!-- Componente Navegación -->
