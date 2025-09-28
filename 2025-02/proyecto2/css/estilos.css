@@ -77,3 +77,25 @@
   margin-top: 20px;
   font-weight: bold;
 }
+
+.leer-mas {
+  color: #2980b9;
+  font-weight: bold;
+  margin: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cuerpo-noticia {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.titulo-noticia {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #c0392b;
+  margin-bottom: 10px;
+}

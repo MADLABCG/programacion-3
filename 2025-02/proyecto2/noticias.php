@@ -26,73 +26,156 @@
 
         <!-- AQUI VA CONTENIDO HACIA ABAJO -->
         <section>
-            <h1>FILA 1</h1>
             <div class="row-fluid">
                 <!-- COLUMNA 1 -->
                 <div class="span4">
-
                     <ul class="thumbnails">
 
+                        <!-- NOTICIA 1 -->
                         <li class="span4">
                             <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 1</h5>
-                                <p>Texto descriptivo de la noticia 1</p>
-                            </div>
-                        </li>
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en cruces de la Lope de Vega</div>
 
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 1</h5>
-                                <p>Texto descriptivo de la noticia 1</p>
-                            </div>
-                        </li>
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la izquierda en tres intersecciones clave de la avenida
+                                        Lope de Vega, en el Distrito Nacional....</div>
 
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 1</h5>
-                                <p>Texto descriptivo de la noticia 1</p>
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo
+                                    </a>
+
+                                </div>
                             </div>
                         </li>
+                        <!-- NOTICIA 1 -->
+
+                        <!-- NOTICIA 2 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="https://resources.diariolibre.com/images/2025/07/06/26c94720b0b044b7eba6e7c4fd344c1c3e3030b9w-9f2fffcf-focus-0-0-896-504.jpg"
+                                    alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">Detienen a alias el Costeño por atentado a Uribe Turbay;
+                                        ahora van por los autores intelectuales</div>
+
+                                    <div class="cuerpo-noticia"> A casi un mes del atentado a bala que mantiene en
+                                        estado grave al senador colombiano y precandidato presidencial Miguel Uribe
+                                        Turbay, las autoridades han capturado a un nuevo implicado clave...</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/mundo/america-latina/2025/07/06/capturan-al-cerebro-del-ataque-contra-miguel-uribe-turbay/3173716"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 2 -->
+
+                        <!-- NOTICIA 3 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
+
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 3 -->
 
                     </ul>
-
-
                 </div>
                 <!-- COLUMNA 1-->
 
                 <!-- COLUMNA 2 -->
                 <div class="span4">
-
                     <ul class="thumbnails">
 
+                        <!-- NOTICIA 4 -->
                         <li class="span4">
                             <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 2</h5>
-                                <p>Texto descriptivo de la noticia 2</p>
-                            </div>
-                        </li>
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
 
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 2</h5>
-                                <p>Texto descriptivo de la noticia 2</p>
-                            </div>
-                        </li>
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
 
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 2</h5>
-                                <p>Texto descriptivo de la noticia 2</p>
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
                             </div>
                         </li>
+                        <!-- NOTICIA 4 -->
+
+                        <!-- NOTICIA 5 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
+
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 5 -->
+
+                        <!-- NOTICIA 6 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
+
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 6 -->
+
                     </ul>
-
                 </div>
                 <!-- COLUMNA 2 -->
 
@@ -100,35 +183,76 @@
 
                 <!-- COLUMNA 3 -->
                 <div class="span4">
-
                     <ul class="thumbnails">
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 3</h5>
-                                <p>Texto descriptivo de la noticia 3</p>
-                            </div>
-                        </li>
 
+                        <!-- NOTICIA 7 -->
                         <li class="span4">
                             <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 3</h5>
-                                <p>Texto descriptivo de la noticia 3</p>
-                            </div>
-                        </li>
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
 
-                        <li class="span4">
-                            <div class="thumbnail">
-                                <img src="https://placehold.co/260x180" alt="">
-                                <h5>Noticia 3</h5>
-                                <p>Texto descriptivo de la noticia 3</p>
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
                             </div>
                         </li>
+                        <!-- NOTICIA 7 -->
+
+                        <!-- NOTICIA 8 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en
+                                        cruces de la Lope de Vega</div>
+
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la
+                                        izquierda en tres intersecciones clave de la avenida Lope de Vega, en el
+                                        Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 8 -->
+
+                        <!-- NOTICIA 9 -->
+                        <li class="span4">
+                            <div class="thumbnail">
+                                <img src="/images/noticia1.jpg" alt="">
+                                <div class="caption">
+                                    <div class="titulo-noticia">El Intrant instala señalizaciones de giros prohibidos y
+                                        rutas alternas en cruces de la Lope de Vega
+                                    </div>
+
+                                    <div class="cuerpo-noticia">A menos de 24 horas para que entre en vigor la
+                                        restricción de giro a la izquierda en tres intersecciones clave de la avenida
+                                        Lope de Vega, en el Distrito Nacional....</div>
+
+                                    <a class="leer-mas"
+                                        href="https://www.diariolibre.com/actualidad/ciudad/2025/07/05/giro-a-la-izquierda-prohibido-desde-manana-en-la-lope-de-vega/3173297?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas"
+                                        target="_blank">Seguir leyendo</a>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- NOTICIA 9 -->
 
                     </ul>
-
-
                 </div>
                 <!-- COLUMNA 3 -->
 
