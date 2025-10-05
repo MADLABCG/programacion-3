@@ -1,0 +1,108 @@
+.contenedor {
+  text-transform: capitalize;
+  padding: 40px 60px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.about-body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(135deg, #7cdcf1, #2193b0);
+}
+
+.about-h1 {
+  font-size: 3rem;
+  color: #f1f132;
+  margin-bottom: 0;
+  letter-spacing: 5px;
+}
+
+.about-p {
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 0;
+}
+
+.autor {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 5px solid #d2f90f;
+  font-style: italic;
+  color: #350f8f;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.estudiante {
+  margin-top: 20px;
+  padding: 10px;
+  margin: 20px;
+  font-size: 3rem;
+  font-weight: bold;
+  font-style: italic;
+  color: #350f8f;
+  display: inline-flex;
+}
+
+.foto {
+  display: flex;
+  height: 20%;
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo {
+  font-size: 1.5rem;
+  text-align: left;
+  color: #440304;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.datos-personales {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 5px solid #620a10;
+  background-color: #e4e4e4;
+}
+
+.personales {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #ecf0f1;
+  border-radius: 20px;
+  border: 2px solid #bdc3c7;
+}
+
+.datos-academicos {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 5px solid #9e1e43;
+  background-color: #fcd7d7;
+}
+
+.academicos {
+  margin: 10px 0px;
+  padding: 10px;
+  background-color: #fdecec;
+  border-radius: 20px;
+  border: 2px solid #f5b7b1;
+}
+
+.centrado {
+  text-align: center;
+  justify-content: center;
+  /* justify-content: space-between; */
+  align-items: center;
+  display: flex;
+}
